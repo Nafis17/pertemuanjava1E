@@ -23,7 +23,7 @@ public class DataType {
         System.out.println("Tampan          = " + tampan);
 
         JOptionPane.showMessageDialog(
-               
+               null, "Hallo " +nama, "Warning", JOptionPane.WARNING_MESSAGE);
 
     }
 }
